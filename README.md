@@ -2,7 +2,7 @@
 
 > *"Revenge for your calendar. Calculate the exact monetary cost of all your 'quick syncs' and generate fake invoices to soothe your soul."*
 
-![Meeting Invoice Generator UI Screenshot](/preview.png)
+![Meeting Invoice Generator UI Screenshot](public/preview.png)
 
 ## Overview
 
